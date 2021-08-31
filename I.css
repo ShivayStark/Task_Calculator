@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    width:100%;
+    height:100%;
+}
+.main{
+    display:block;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 50px;
+    width:100%;
+    height:50%; 
+}  
+table{
+    border: rgb(18, 223, 18);
+    border-width: 6px;
+    border-style: solid;
+    border-radius: 5px;
+    
+    margin: auto;
+}
+input{
+    margin:0px;
+    padding:0px;
+    border:rgb(250, 46, 10);
+    overflow-x:scroll;
+    font-size: 30px;
+    width: 245px;
+    height: 40px;
+}
+button{
+    position: relative;
+    border: cyan;
+    border-width: 6px;
+    color: #FFFFFF;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+    font-size: 21px;
+    height: 45px;
+    width: 60px;
+    background-color: rgb(1, 12, 22);
+    
+}
