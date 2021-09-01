@@ -13,7 +13,7 @@ for(item of buttons){
             
             
         }
-        else if(buttontext == 'c'){
+        else if(buttontext == 'C'){
             numbervalue = "";           
             number.value = numbervalue;
         }
